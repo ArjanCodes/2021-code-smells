@@ -1,4 +1,4 @@
-# 7 Python code smells
+
 
 This repository contains the code for the Python code smells 
 
